@@ -22,10 +22,10 @@ My most rewarding experiences have involved applying data science principles to 
 
 # **Education**
 <div class="row">
-{% include about/timeline-edu.html %}
+{% include about/timeline.html %}
 </div>
-
+<!-- 
 # **Work Experience**
 <div class="row">
 {% include about/timeline-work.html %}
-</div>
+</div> -->
