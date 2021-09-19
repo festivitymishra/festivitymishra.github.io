@@ -1,0 +1,89 @@
+### Site Settings ###
+title               : Utsav Mishra
+description         : >-
+  Data Scientist :nerd_face:| ML Engineer :man_technologist: 
+baseurl             : ""                     
+repository          : festivitymishra/festivitymishra.github.io   
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Utsav Mishra
+  # image             : https://avatars0.githubusercontent.com/u/60484294?s=460&u=9c583e3af243160609b948fa730ed783158a1877&v=4
+  image             : "/assets/img/utsav.jpeg" 
+# behance           : your_username
+# dribbble          : your_username
+  email             : utsav.iitkgp@gmail.com
+# facebook          : your_username
+  github            : festivitymishra
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : in/utsavmishra
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+# disqus:
+#   shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
