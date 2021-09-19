@@ -22,9 +22,9 @@ My most rewarding experiences have involved applying data science principles to 
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div> -->
 
-# **Work Experience**
+# **Education Experience**
 <div class="row">
-{% include about/timeline-edu.html %}
+{% include about/timeline.html %}
 </div>
 
 # **Education**
