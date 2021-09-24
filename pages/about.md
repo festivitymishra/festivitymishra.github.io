@@ -24,7 +24,7 @@ My most rewarding experiences have involved applying data science principles to 
 
 # **Education Experience**
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.html title="Education Experience" source=site.data.timeline %}
 </div>
 
 <!-- # **Education**
