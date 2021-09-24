@@ -14,8 +14,8 @@ I have completed my bachelor's at [Indian Institute of  Technology Kharagpur](ht
 My research interest includes machine learning, reinforcement learning, natural language processing, and computer vision. I am particularly interested in research that explores how reinforcement learning algorithms coupled with the predictive power of deep neural networks can be used to create innovative applications in operation research, computational biology, conversational intelligence, and computer vision.
 
 My most rewarding experiences have involved applying data science principles to solve business cases, which led me to my intended area of study. See the *Blog* and *Project Links* sections of this site for a few examples of my work!<br>
-<!-- 
-<div class="row">
+
+<!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div> -->
@@ -24,8 +24,8 @@ My most rewarding experiences have involved applying data science principles to 
 <div class="row">
 {% include about/timeline.html %}
 </div> -->
-<!-- 
-# **Work Experience**
+
+<!-- # **Work Experience**
 <div class="row">
 {% include about/timeline.html %}
 </div> -->
