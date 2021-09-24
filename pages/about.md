@@ -7,7 +7,7 @@ weight: 1
 
 {% include landing.html %}
 
-# **About Me**
+## **About Me**
 
  I’m a  Technology Freak and Data Scientist based in Mumbai, India. I work in an amazing team, surrounded by great people!. I’m passionate about Machine learning and its advantages. I have extensive experience in solving real-world business problems across domains using machine learning, to build applications and enable products. I like to go on long walks, treks, explore new places, and enjoy listening to music.
 
@@ -22,7 +22,13 @@ My most rewarding experiences have involved applying data science principles to 
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div> -->
 
-# **Education Experience**
+## **Work Experience**
+<div class="row">
+{% include about/timeline.html title="Education Experience" source=site.data.timeline-work %}
+</div>
+
+
+## **Education Experience**
 <div class="row">
 {% include about/timeline.html title="Education Experience" source=site.data.timeline %}
 </div>
