@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-{% include landing.html %}
+<!-- {% include landing.html %} -->
 
 # **About Me**
 

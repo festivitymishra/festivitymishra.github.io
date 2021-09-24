@@ -5,7 +5,7 @@ permalink: /about/
 weight: 1
 ---
 
-{% include landing.html %}
+<!-- {% include landing.html %} -->
 
 # **About Me**
 
