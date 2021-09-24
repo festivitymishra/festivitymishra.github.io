@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-<!-- {% include landing.html %} -->
+{% include landing.html %}
 
 # **About Me**
 
@@ -20,10 +20,10 @@ My most rewarding experiences have involved applying data science principles to 
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
-<!-- # **Education**
+# **Education**
 <div class="row">
 {% include about/timeline.html %}
-</div> -->
+</div>
 <!-- 
 # **Work Experience**
 <div class="row">
