@@ -27,7 +27,7 @@ My most rewarding experiences have involved applying data science principles to 
 {% include about/timeline.html %}
 </div>
 
-# **Education**
+<!-- # **Education**
 <div class="row">
 {% include about/timeline-work.html %}
-</div>
+</div> -->
