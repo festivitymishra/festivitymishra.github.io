@@ -27,5 +27,5 @@ My most rewarding experiences have involved applying data science principles to 
 <!-- 
 # **Work Experience**
 <div class="row">
-{% include about/timeline-work.html %}
+{% include about/timeline.html %}
 </div> -->
