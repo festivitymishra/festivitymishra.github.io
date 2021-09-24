@@ -1,9 +1,9 @@
 ---
 name: "Meraki - 1st Runner's Up in MishMash Hack :trophy: :tada:"
-tools: [Route Optimisation, OSRM, Docker, Hackathon]
-image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/MISHMASH Features.jpg?raw=true
+tools: [Route Optimisation, OSRM, OpenStreetMap, Docker, Hackathon]
+image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/MISHMASH.jpg?raw=true
 
-description: Fast Route Planning & Route Optimisation with the help of travelling salesman problem (TSP) algorithm - Given a set of deliveries to be made in particular time duration, the TSP Algorithm computes the fastest and shortest route for the given fleet of vehicles. If a fleet of vehicles is to deliver consignments till the last mile, the TSP algorithm assigns route to each vehicle so that the total transportation costs are minimized and can also consider business-side logics such as the capacity of each vehicle, time-windows, delivery skills and more. For the shortest and fastest route calculation, the TSP solver relies on OpenStreetMap data and does matrix calculations by triggering Open-Source Routing Machine (OSRM), thus making the route locality-aware.
+description: Fast Route Planning & Route Optimisation with the help of travelling salesman problem (TSP) algorithm - Given a set of deliveries to be made in particular time duration, the TSP Algorithm computes the fastest and shortest route for the given fleet of vehicles. The solver relies on OpenStreetMap data and does matrix calculations by triggering Open-Source Routing Machine (OSRM), thus making the route locality-aware.
 
 external_url: https://github.com/festivitymishra/Meraki-mishmash
 ---

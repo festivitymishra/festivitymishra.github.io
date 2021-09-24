@@ -1,5 +1,5 @@
 ---
-name: " 1st Runner's Up - Hackerearth Microsoft Azure Hackathon (Theme: Insurance & Banking) :trophy: :tada: "
+name: " 1st Runner's Up - Hackerearth Microsoft Hack :trophy: :tada: "
 tools: [Blockchain, Azure, Hackathon]
 image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Ideation.jpg?raw=true
 
