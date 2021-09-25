@@ -15,6 +15,10 @@ My research interest includes machine learning, reinforcement learning, natural 
 
 My most rewarding experiences have involved applying data science principles to solve business cases, which led me to my intended area of study. See the *Blog* and *Project Links* sections of this site for a few examples of my work!<br>
 
+<p class="text-center">
+{% include elements/button.html link="https://festivitymishra.github.io/projects/" text="Projets" %}
+</p>
+
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
