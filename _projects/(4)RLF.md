@@ -21,7 +21,8 @@ description: Developed a <b>Medical Risk classification model</b> with Costly Fe
 ___
 
 {% include elements/highlight.html text="Reinforcement Learning" %}
-##### DDQN Algo :
+##### DDQN Algo : 
+###### <b>Please Use '<''>' to move around the diagrams </b>
 {% capture carousel_images %}
 https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/RL_DIA1.jpg?raw=true
 https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/RL_DIA2.jpg?raw=true
@@ -39,6 +40,7 @@ https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projec
 
 {% capture carousel_images %}
 https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Training.png?raw=true
+
 https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Deploy.png?raw=true
 
 {% endcapture %}
