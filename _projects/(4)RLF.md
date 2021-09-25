@@ -18,12 +18,41 @@ description: Developed a <b>Medical Risk classification model</b> with Costly Fe
   <p>  Underwriting automation with a deep reinforcement learning agent reducing number of questions to 40. It was important to ask these questions in a correct and relevant sequence which the RL agent learns it self and interesting in desired order before concluding with the results.
     The solution brings the first implementation of the artificial brain taking a crucial decision, and understanding the hidden rules of underwriting in the Insurance industry. A self-learning Insurance Underwriting engine using Double DQN algorithm, with just 40 questions.  </p>
 
+___
+
 {% include elements/highlight.html text="Reinforcement Learning" %}
+##### DDQN Algo :
+{% capture carousel_images %}
+https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/RL_DIA1.jpg?raw=true
+https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/RL_DIA2.jpg?raw=true
+https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/RL_DIA3.jpg?raw=true
+https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/RL_DIA4.jpg?raw=true
+https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/RL_DIA5.jpg?raw=true
 
+{% endcapture %}
+{% include elements/carousel.html %}
 
+##### Training & Deployment Process :
+* <p> <strong>Identified & extracted training data from SQL database using Apache Flink via JDBC & did a literature survey on deep reinforcement learning algorithms. </strong></p>
+* <p> <strong>Trained the engine with 1 million+ data points on AWS(EC2) & exposed it as a service (using Flask microservices) for the proof of concept and deployment strategies. </strong></p>
+* Achieved 91% accuracy of classification with 40 questions asked at max. 
 
+{% capture carousel_images %}
+https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Training.png?raw=true
+https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Deploy.png?raw=true
 
+{% endcapture %}
+{% include elements/carousel.html %}
 
+##### Results :
+* Achieved 91% accuracy of classification with 40 questions asked at max. 
 
+{% include elements/figure.html image="https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/DRL_CM.png?raw=true" caption="Confusion matrix with Epocs" %}
+
+* Sample Question Sequence 
+
+{% include elements/figure.html image="https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Question.png?raw=true" caption="Questionnaire" %}
+
+{% include elements/highlight.html text="In case you want to discuss over this project for more details, lets connect!" %}
 
 <!-- The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support. -->
