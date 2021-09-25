@@ -1,5 +1,5 @@
 ---
-name: "Share 2 Sequre :link:, Winner <b>Microsoft Azure<b> Hack :trophy: :tada:"
+name: "Share 2 Secure :link:, Winner <b>Microsoft Azure<b> Hack :trophy: :tada:"
 tools: [Blockchain, Azure, Hackathon]
 image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Ideation.png?raw=true
 
