@@ -23,13 +23,18 @@ The lead allocation process for the sales agent for the meeting schedule was ine
 ![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/High_level_archi.jpeg?raw=true)
 
 
-• Developed a lead allocation app along with meeting scheduling.
+* Developed a lead allocation app along with meeting scheduling.
 Location of agents and customers was considered to allocate leads for minimizing travel and maximizing meetings per day.
-• Developed a capacitated travelling salesman problem solver with time window constraints.
-• Used Open Street routing machine for defining complexity in the adjacency matrix.
-• Used DMS for real-time data transfer between legacy SAP and Oracle DBs.
-• <b>Designed and developed the server less backend architecture</b> of App on AWS with Lambda, ECS, ECR, Dynamodb, Step Function etc.
-• Deployed OSRM along with custom TSP Solver for lead allocation and agent routing through lead and meetings with minimal travel.
+
+* Developed a capacitated travelling salesman problem solver with time window constraints.
+
+* Used Open Street routing machine for defining complexity in the adjacency matrix.
+
+* Used DMS for real-time data transfer between legacy SAP and Oracle DBs.
+
+* <b>Designed and developed the server less backend architecture</b> of App on AWS with Lambda, ECS, ECR, Dynamodb, Step Function etc.
+
+* Deployed OSRM along with custom TSP Solver for lead allocation and agent routing through lead and meetings with minimal travel.
 
 
 ![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/app1.png?raw=true)
