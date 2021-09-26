@@ -1,5 +1,5 @@
 ---
-name: 'Face Recognition with Anit Spoof (CNN) on AWS'
+name: 'Face Recognition with Anti-Spoof (CNN) on AWS'
 tools: [Face Recognition, CNN, Anti Spoofing, dlib, Deep Learning, AWS, Lambda, Step Function, Dynamodb,Docker]
 image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Facematch.jpg?raw=true
 
@@ -9,7 +9,7 @@ description: Developed a Face recognition system to reduce fraud in virtual cust
 # external_url: https://github.com/festivitymishra/PyraDox/
 ---
 
-### Face Recognition with Anit Spoof (CNN) on AWS
+### Face Recognition with Anti-Spoof (CNN) on AWS
 
 ![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Facematch.jpg?raw=true)
 
