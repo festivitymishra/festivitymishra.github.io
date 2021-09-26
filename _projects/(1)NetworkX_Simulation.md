@@ -5,7 +5,7 @@ tools: [NetworkX, PySim, DI graph, Simulation, Optimisation]
 
 image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Sim2.gif?raw=true
 
-description: Optimised organization hierarchy to reduce operations cost and increased productivity with different growth & compensation strategies using DI graph NetworkX and PySim.
+description: Optimised organization hierarchy to reduce cost and increased productivity with different growth strategies using NetworkX and PySim.
 
 # external_url: https://github.com/festivitymishra/PyraDox/
 
