@@ -26,7 +26,7 @@ The lead allocation process for the sales agent for the meeting schedule was ine
 * Developed a lead allocation app along with meeting scheduling.
 Location of agents and customers was considered to allocate leads for minimizing travel and maximizing meetings per day.
 
-* Developed a capacitated travelling salesman problem solver with time window constraints.
+* Developed a capacitated traveling salesman problem solver with time window constraints.
 
 * Used Open Street routing machine for defining complexity in the adjacency matrix.
 
