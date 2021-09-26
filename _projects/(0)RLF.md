@@ -37,7 +37,7 @@ https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projec
 ##### Training & Deployment Process :
 * <p> <strong>Identified & extracted training data from SQL database using Apache Flink via JDBC & did a literature survey on deep reinforcement learning algorithms. </strong></p>
 * <p> <strong>Trained the engine with 1 million+ data points on AWS(EC2) & exposed it as a service (using Flask microservices) for the proof of concept and deployment strategies. </strong></p>
-* Achieved 91% accuracy of classification with 40 questions asked at max. 
+
 
 {% capture carousel_images %}
 https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Training.png?raw=true
@@ -47,11 +47,11 @@ https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projec
 {% include elements/carousel.html %}
 
 ##### Results :
-* Achieved 91% accuracy of classification with 40 questions asked at max. 
+* <strong> Achieved 91% accuracy of classification with 40 questions asked at max. </strong>
 
 {% include elements/figure.html image="https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/DRL_CM.png?raw=true" caption="Confusion matrix with Epocs" %}
 
-* Sample Question Sequence 
+* Sample Question Sequence by RL Agent
 
 {% include elements/figure.html image="https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Question.png?raw=true" caption="Questionnaire" %}
 
