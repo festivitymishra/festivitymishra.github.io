@@ -1,7 +1,7 @@
 ---
 name: "Share 2 Secure :link:, Winner <b>Microsoft Azure<b> Hack :trophy: :tada:"
 tools: [Blockchain, Azure, Hackathon]
-image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Ideation.png?raw=true
+image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/StSArchitecture.png?raw=true
 
 description: Share to Secure Application for Blockchain Enabled Insurance on Azure Blockchain Workbench. 
            <br> <b> Features </b> <br> 
