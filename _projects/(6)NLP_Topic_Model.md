@@ -25,11 +25,11 @@ Customer journey from submission of document to the issuance is complex and move
 
 #### Solution :
 
-* Visualization of onboarding journey with Sankey diagram to show the stages where customers are and average TAT in days between the stages.
+* <b>Visualization of onboarding journey with Sankey diagram</b> to show the stages where customers are and average TAT in days between the stages.
 
-* Understand why these journeys are stuck using Natural language processing, gensim LDA topic modeling on pending tickets text data. 
+* Understand why these journeys are stuck using <b>Natural language processing, gensim LDA topic modeling</b> on pending tickets text data. 
 
-* Topic modeling suits best as it gives the probability distribution of topics within each document (ticket) as tickets may be stuck due to multiple requirements.
+* Topic modeling suits best as it gives the <b>probability distribution of topics within each document (ticket)</b> as tickets may be stuck due to multiple requirements.
 
 
 #### Topic modeling using Latent Dirichlet Allocation(LDA)
