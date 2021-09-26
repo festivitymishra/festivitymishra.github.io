@@ -1,7 +1,7 @@
 ---
 name: 'LDA Topic modeling on pending tickets text data'
 tools: [NLP, LDA, Topic modeling, Plotly, Sankey, gensim]
-image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/NLP_Topic1.png?raw=true
+image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Journey_Viz.png?raw=true
 
 description: Analysed customer onboarding journey to increase conversion using Natural language processing - gensim LDA topic modeling on pending tickets text data and developed interactive TAT visualization with plotly sankey.
 
@@ -11,7 +11,7 @@ description: Analysed customer onboarding journey to increase conversion using N
 
 ### Customer onboarding Journey with LDA Topic modeling
 
-![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/NLP_Topic1.png?raw=true)
+![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Journey_Viz.png?raw=true)
 
 #### Business Problem : 
 
