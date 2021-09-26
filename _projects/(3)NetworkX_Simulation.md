@@ -16,10 +16,13 @@ description: Optimised organization hierarchy to reduce cost and increased produ
 ![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Sim2.gif?raw=true)
 
 #### Business Problem : 
-
+As organizations design large teams for growth, it is required to have an oversight on scale and network for reducing operation cost and increasing productivity. 
 
 #### Solution :
-Optimised organization hierarchy to reduce operations cost and increased productivity with different growth & compensation strategies using DI graph NetworkX and PySim.
+* Simulation of growth of an organization with different strategies using NetworkX in python.
+* Designed an agent bases simulation with Pysim to access the cost of operation within various cases using tree traversal techniques.
+* Optimized organization hierarchy to reduce operations cost and increased productivity with different growth & compensation strategies using DI graph NetworkX and PySim.
+
 
 ![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Distribution.png?raw=true)
 
