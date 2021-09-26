@@ -3,7 +3,7 @@ name: 'Route optimisation and Lead allocation app on AWS Data Lake'
 tools: [AWS, Data Lake,Lambda, Step Function, Dynamodb, ECS, ECR, API Gateway, Docker, OSRM, Fargate]
 image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/app2.png?raw=true
 
-description: Designed and developed the serverless architecture of Lead allocation and Route optimisation app on AWS Data Lake using Lambda, DMS, Dynamodb, Step Function, ECR, ECS, S3, etc.
+description: Developed the serverless architecture of Lead allocation and Route optimisation app on AWS Data Lake.
 
 
 # external_url: https://github.com/festivitymishra/PyraDox/
