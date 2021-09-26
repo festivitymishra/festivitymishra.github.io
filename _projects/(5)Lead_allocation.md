@@ -11,18 +11,24 @@ description: Developed the serverless architecture of Lead allocation and Route 
 
 ### Serverless architecture of Lead allocation and Route optimisation app on AWS Data Lake
 
-Lead Allocation with Meeting Scheduler App using Open Street Routing Machine on AWS Server less Backend
+Lead Allocation with Meeting Scheduler App using Open Street Routing Machine on AWS Server less Backend.
 
 ![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/app2.png?raw=true)
 
 #### Business Problem : 
-
+The lead allocation process for the sales agent for the meeting schedule was ineffective, round-robin was used to randomly allocate meetings. This process did not consider the location and availability of customers and agents leading to potential loss in business and dissatisfaction amongst sales.
 
 #### Solution :
 
 ![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/High_level_archi.jpeg?raw=true)
 
-• Designed and developed the server less architecture of InstaGo App on AWS with Lambda, ECS, ECR, Dynamodb, Step Function etc.
+
+• Developed a lead allocation app along with meeting scheduling.
+Location of agents and customers was considered to allocate leads for minimizing travel and maximizing meetings per day.
+• Developed a capacitated travelling salesman problem solver with time window constraints.
+• Used Open Street routing machine for defining complexity in the adjacency matrix.
+• Used DMS for real-time data transfer between legacy SAP and Oracle DBs.
+• <b>Designed and developed the server less backend architecture</b> of App on AWS with Lambda, ECS, ECR, Dynamodb, Step Function etc.
 • Deployed OSRM along with custom TSP Solver for lead allocation and agent routing through lead and meetings with minimal travel.
 
 
