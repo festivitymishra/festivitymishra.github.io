@@ -1,7 +1,9 @@
 ---
 name: 'Graph Network Simulation'
+
 tools: [NetworkX, PySim, DI graph, Simulation, Optimisation]
-image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Hirarc.png?raw=true
+
+image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Journey_Viz.png?raw=true
 
 description: Optimised organization hierarchy to reduce operations cost and increased productivity with different growth & compensation strategies using DI graph NetworkX and PySim.
 
