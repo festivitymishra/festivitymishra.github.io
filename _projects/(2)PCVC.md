@@ -14,11 +14,21 @@ description: Developed a Face recognition system to reduce fraud in virtual cust
 ![preview](https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Facematch.jpg?raw=true)
 
 #### Business Problem : 
-
+Misselling is a major cause of concern where the customer claims he/she did not buy but someone else made the purchase in their name.  
+<b> Pre conversion verification </b> is a mandatory process where a new customer records a video to say he/she made the purchase. But this process is not full proof and manual checking with an increasing customer base is not prossible.
 
 #### Solution :
-* Developed a Face recognition system to reduce fraud in virtual customer onboarding with DeepFace embeddings.
-* Trained a CNN model for anti spoofing and deployed the model as a service using docker and ECS.
+* Developed a Face recognition system to reduce fraud in virtual customer onboarding.
+
+*  Developed a face-matching algorithm that compared faces of customers from the frames of mandatory video with their KYC documents submitted at the time of application.
+
+•  Face matching uses <b>  face embeddings from DeepFace (facebook) model </b> with the help of <b> haar cascade , dlib and opencv.</b>
+
+• Trained a <b>CNN model for anti-spoofing </b> and deployed the model as a service using Docker and ECS. 
+
+• Designed the serverless backed on AWS along with services for the admin console to audit the model performance.
+
+
 
 ___
 
