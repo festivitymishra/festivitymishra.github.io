@@ -32,6 +32,7 @@ My most rewarding experiences have involved applying data science principles to 
 
 ---
 
+Below you can find some of the projects I've done during my work and studies. 
 
 <p class="text-center">
 {% include elements/button.html link="https://festivitymishra.github.io/projects/" text="Projects" %}
