@@ -7,7 +7,6 @@ weight: 2
 
 {% include landing.html %}
 
-
 ## **About Me**
 
  I’m a  Technology Freak and Data Scientist based in Mumbai, India. I work in an amazing team, surrounded by great people!. I’m passionate about Machine learning and its advantages. I have extensive experience in solving real-world business problems across domains using machine learning, to build applications and enable products. I like to go on long walks, treks, explore new places, and enjoy listening to music.
@@ -16,7 +15,7 @@ I have completed my bachelor's at [Indian Institute of  Technology Kharagpur](ht
 
 My research interest includes machine learning, reinforcement learning, natural language processing, and computer vision. I am particularly interested in research that explores how reinforcement learning algorithms coupled with the predictive power of deep neural networks can be used to create innovative applications in operation research, computational biology, conversational intelligence, and computer vision.
 
-My most rewarding experiences have involved applying data science principles to solve business cases, which led me to my intended area of study. See the *Blog* and *Project Links* sections of this site for a few examples of my work!<br> 
+My most rewarding experiences have involved applying data science principles to solve business cases, which led me to my intended area of study. See the [Projects](https://festivitymishra.github.io/projects/) section of this site for a few examples of my work!<br> 
 
 
 ## **Work Experience**
