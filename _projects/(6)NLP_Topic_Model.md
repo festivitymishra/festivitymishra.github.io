@@ -19,7 +19,7 @@ Customer journey from submission of document to the issuance is complex and move
 
 #### Data :
 
-| Submission Date | Pending Stage | Ticket Text | Pending Date   |
+| Submission Date | Pending Stage | Ticket Text | Pending Date |
 | ------------- |:-------------:| -------:| -------:|
 | Date at which documents were submitted | Stage at which journey is stuck | Reason in plain text, why it is stuck | Current Date |
 
