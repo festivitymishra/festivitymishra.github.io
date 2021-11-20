@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Utsav Mishra
 description         : >-
-  Data Scientist :nerd_face:| ML Engineer :man_technologist: 
+  Data Scientist :nerd_face: 
 baseurl             : ""                     
 repository          : festivitymishra/festivitymishra.github.io   
 remote_theme        : YoussefRaafatNasry/portfolYOU
