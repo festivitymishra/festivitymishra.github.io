@@ -7,7 +7,7 @@ permalink: /
 
 ## **About Me**
 
- I’m a  Technology Freak and Data Scientist based in Mumbai, India. I work in an amazing team, surrounded by great people!. I’m passionate about Machine learning and its advantages. I have extensive experience in solving real-world business problems across domains using machine learning, to build applications and enable products. I like to go on long walks, treks, explore new places, and enjoy listening to music.
+ I’m a  Technology Freak and Data Scientist based in Bengaluru, India. I work in an amazing team, surrounded by great people!. I’m passionate about Machine learning and its advantages. I have extensive experience in solving real-world business problems across domains using machine learning, to build applications and enable products. I like to go on long walks, treks, explore new places, and enjoy listening to music.
 
 I have completed my bachelor's at [Indian Institute of  Technology Kharagpur](http://www.iitkgp.ac.in/). During the academic year, I spent the majority of my time engaging in coursework, hackathons, and extracurricular activities that bridge the gap between quantitative and qualitative learning. I am looking to work in a field that utilizes the programming, critical thinking, and research skills that I have gained during my college years and professional experience.
 
