@@ -7,7 +7,7 @@ keywords: Staff ML Engineer, Principal Data Scientist, AI Engineer, ML Scientist
 
 {% include landing.html %}
 
-# About Utsav Mishra - Staff ML Engineer | Principal Data Scientist | AI Engineer
+# Staff ML Engineer
 
 ## **About Me**
 
@@ -32,10 +32,10 @@ I'm recognized for technical thought leadership, establishing organization-wide 
 - **Industry Recognition**: VP Award for Innovation & Impact, featured on Target Tech Blog
 - **Scale**: Architecting systems serving 100M+ users with real-time personalization
 
-Want to learn more? Check out my [projects](https://festivitymishra.github.io/projects/), view my [resume](https://festivitymishra.github.io/resume/), or [get in touch](https://festivitymishra.github.io/contact/)!
+Want to learn more? Check out my [portfolio](https://festivitymishra.github.io/projects/), view my [resume](https://festivitymishra.github.io/resume/), or [get in touch](https://festivitymishra.github.io/contact/)!
 
 <p class="text-center">
-{% include elements/button.html link="https://festivitymishra.github.io/projects/" text="View Projects" %}
+{% include elements/button.html link="https://festivitymishra.github.io/projects/" text="View Portfolio" %}
 {% include elements/button.html link="https://festivitymishra.github.io/about/" text="Learn More" %}
 {% include elements/button.html link="https://festivitymishra.github.io/contact/" text="Contact Me" %}
 </p>

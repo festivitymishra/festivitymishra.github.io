@@ -3,13 +3,13 @@ layout: page
 title: "About"
 permalink: /about/
 weight: 2
-description: About Utsav Mishra - Staff ML Engineer, Principal Data Scientist, and AI Engineer with 8+ years experience in Machine Learning, Reinforcement Learning, and GenAI systems.
+description: About Staff ML Engineer Utsav Mishra with 8+ years experience in Machine Learning, Reinforcement Learning, and GenAI systems.
 keywords: Staff ML Engineer, Principal Data Scientist, AI Engineer, ML Scientist, Machine Learning Engineer, Utsav Mishra, Target Corporation, Reinforcement Learning, GenAI
 ---
 
 {% include landing.html %}
 
-# About Utsav Mishra - Staff ML Engineer & Principal Data Scientist
+# Staff ML Engineer
 
 ## **About Me**
 
@@ -39,7 +39,7 @@ When I'm not architecting ML systems or mentoring teams, I enjoy going on long w
 
 I completed my bachelor's degree in Architecture at [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/). My coursework included Programming & Data Structures, Probability Mathematics, Image Processing & Remote Sensing, and Economics. During my academic years, I engaged in hackathons and projects that applied quantitative methods to real-world problems, winning multiple hackathons including Microsoft Azure Hackathon (1st Runner's Up) and MishMash Hackathon (1st Runner's Up).
 
-See the [Projects](https://festivitymishra.github.io/projects/) section for detailed examples of my work!
+See the [Portfolio](https://festivitymishra.github.io/projects/) section for detailed examples of my work!
 
 ## **Work Experience**
 
@@ -58,7 +58,7 @@ See the [Projects](https://festivitymishra.github.io/projects/) section for deta
 Below you can find some of the projects I've done during my work and studies.
 
 <p class="text-center">
-{% include elements/button.html link="https://festivitymishra.github.io/projects/" text="Projects" %}
+{% include elements/button.html link="https://festivitymishra.github.io/projects/" text="Portfolio" %}
 </p>
 
 
