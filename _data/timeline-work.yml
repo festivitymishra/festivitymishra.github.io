@@ -1,10 +1,10 @@
 - title: Lead Data Scientist L6 (Promoted), Target Corporation
   from: October 2021
-  description:  
+  description: >
               • Architected and owned the ML strategy and technical roadmap for Target's offer personalization platform (100M+ users), defining experimentation frameworks, model architectures, and scaling patterns for multi-market deployment. <br>
               • Drove technical architecture decisions across a team of 16 data scientists and engineers, establishing best practices for model design, MLOps pipelines, and cross-team ML integration. <br>
               • Mentored and grew 5 data science team members, coaching on advanced ML techniques and research-to-production translation; two received promotions. <br>
-              • Invented & patented Target's Contextual Offer Recommendation Engine (CORE), an RL-based contextual bandit framework. Architected the system from research to production, driving +70% redemption and +28% opt-in uplift (stat-sig), contributing >$500M incremental sales. <br>
+              • Invented & patented Target's Contextual Offer Recommendation Engine (CORE), an RL-based contextual bandit framework. Architected the system from research to production, driving +70% redemption and +28% opt-in uplift (stat-sig), contributing over $500M incremental sales. <br>
               • Architected and implemented TargetRun - Guest-Level Trip Forecasting with LSTM. Achieved statistically significant improvements: reduced MAPE and MAE by ~50% and drove measurable lifts in campaign opt-in, completion, and redemption rates across all engagement segments. <br>
               • Architected and built Lookalike, a GenAI-powered RAG system that automates campaign forecasting through intelligent retrieval and ranking. Achieved 100% coverage (K=3 recommendations), eliminating manual campaign triage and reducing setup time by 1.5 days per campaign. <br>
               • Architected automated ML data and training pipelines on GCP using Spark, Kubeflow, and Oozie with TensorFlow Agents; established standardized model tracking and monitoring through TensorBoard and Grafana. <br>
