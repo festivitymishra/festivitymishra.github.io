@@ -1,9 +1,10 @@
 ---
-name: 'Medical Risk Classification with <b>Deep Reinforcement Learning</b> (DDQN)'
-tools: [Reinforcement Learning, DDQN, Deep Learning, Costly Features, Risk Classification, Insurance Underwriting]
+name: 'Classification with <b>Deep Reinforcement Learning</b> (DDQN algorithm) '
+tools: [Reinforcement Learning, DDQN,Deep Learning, Costly Features, Risk classification]
 image: https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/DRL_CM.png?raw=true
 
-description: Developed a <b>Medical Risk classification model</b> with Costly Features using Deep Reinforcement Learning (DDQN algorithm)<b> achieving above 91% accuracy</b>. Reduced underwriting questions from 250-500 to just 40 questions.
+description: Developed a <b>Medical Risk classification model</b> with Costly Features using Deep Reinforcement Learning (DDQN algorithm)<b> achieving above 91% accuracy</b>.
+# external_url: https://github.com/festivitymishra/PyraDox/
 ---
 
 ### Risk classification model with Costly Features using Deep Reinforcement Learning
@@ -54,12 +55,6 @@ https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projec
 
 {% include elements/figure.html image="https://github.com/festivitymishra/festivitymishra.github.io/blob/master/_projects/figures/Question.png?raw=true" caption="Questionnaire" %}
 
-#### Publications & Recognition
-
-- **Patent Filed**: Provisional patent application for "Reinforcement Learning-based Insurance Underwriting System with Costly Features"
-- **Innovation**: First implementation of deep RL for insurance underwriting automation
-- **Impact**: Reduced underwriting complexity by 84-92% (from 250-500 questions to 40)
-
-{% include elements/highlight.html text="This project represents pioneering work in applying reinforcement learning to insurance underwriting. In case you want to discuss this project for more details, let's connect!" %}
+{% include elements/highlight.html text="In case you want to discuss over this project for more details, lets connect!" %}
 
 <!-- The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support. -->
