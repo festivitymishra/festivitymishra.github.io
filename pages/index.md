@@ -40,12 +40,14 @@ Want to learn more? Check out my [portfolio](https://festivitymishra.github.io/p
 {% include elements/button.html link="https://festivitymishra.github.io/contact/" text="Contact Me" %}
 </p>
 
-<!-- # **Education**
-<div class="row">
-{% include about/timeline.html %}
-</div> -->
+## **Work Experience**
 
-<!-- # **Work Experience**
 <div class="row">
-{% include about/timeline.html %}
-</div> -->
+{% include about/timeline_work.html title="Work Experience" source=site.data.timeline-work %}
+</div>
+
+## **Education**
+
+<div class="row">
+{% include about/timeline.html title="Education Experience" source=site.data.timeline %}
+</div>
