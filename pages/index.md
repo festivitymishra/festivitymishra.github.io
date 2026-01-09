@@ -7,11 +7,11 @@ permalink: /
 
 ## **About Me**
 
-I'm a Data Scientist and Machine Learning Engineer based in Bengaluru, India. I'm passionate about leveraging machine learning and AI to solve complex business problems. With extensive experience across domains, I specialize in building production-ready ML applications that drive real-world impact.
+I'm a **Staff ML Engineer** with 8+ years of experience architecting and scaling ML, RL, and GenAI systems that drive enterprise impact across retail and fintech. I specialize in translating cutting-edge ML research into high-revenue production systems for 100M+ users, with expertise in multi-armed bandits, RAG-based retrieval systems, deep learning architectures, and real-time decision systems.
 
-My expertise spans machine learning, reinforcement learning, natural language processing, and computer vision. I'm particularly interested in how reinforcement learning algorithms, combined with deep neural networks, can create innovative solutions in operations research, computational biology, conversational intelligence, and computer vision.
+Currently, I lead data science initiatives at **Target Corporation** as a **Lead Data Scientist L6**, where I architect ML strategies, mentor teams of 16+ data scientists and engineers, and drive technical decisions for systems serving 100M+ users. My work has generated **>$500M in incremental sales** through patented innovations in reinforcement learning and recommendation systems.
 
-Currently, I work with an amazing team at Target, leading initiatives that impact millions of customers. My most rewarding experiences involve applying data science principles to solve challenging business cases.
+I'm recognized for technical thought leadership, establishing organization-wide ML frameworks, and building production-grade systems that combine research excellence with business impact. My expertise spans GenAI/RAG systems, contextual bandits, causal ML, and scaling ML infrastructure on cloud platforms.
 
 Want to learn more? Check out my [projects](https://festivitymishra.github.io/projects/), view my [resume](https://festivitymishra.github.io/resume/), or [get in touch](https://festivitymishra.github.io/contact/)!
 

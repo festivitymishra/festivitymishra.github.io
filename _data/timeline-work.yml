@@ -1,62 +1,29 @@
-- title: Senior Data Scientist, Target
+- title: Lead Data Scientist L6 (Promoted), Target Corporation
   from: October 2021
   description:  
-              • Leading Target's offer gamification loyalty program (Circle Bonus), with over 100 million customers using micro-segmentation,
-               past purchase behavior, next basket size, and game mechanics like motivation & game flow to delight guests. <br>
+              • Architected and owned the ML strategy and technical roadmap for Target's offer personalization platform (100M+ users), defining experimentation frameworks, model architectures, and scaling patterns for multi-market deployment. <br>
+              • Drove technical architecture decisions across a team of 16 data scientists and engineers, establishing best practices for model design, MLOps pipelines, and cross-team ML integration. <br>
+              • Mentored and grew 5 data science team members, coaching on advanced ML techniques and research-to-production translation; two received promotions. <br>
+              • Invented & patented Target's Contextual Offer Recommendation Engine (CORE), an RL-based contextual bandit framework. Architected the system from research to production, driving +70% redemption and +28% opt-in uplift (stat-sig), contributing >$500M incremental sales. <br>
+              • Architected and implemented TargetRun - Guest-Level Trip Forecasting with LSTM. Achieved statistically significant improvements: reduced MAPE and MAE by ~50% and drove measurable lifts in campaign opt-in, completion, and redemption rates across all engagement segments. <br>
+              • Architected and built Lookalike, a GenAI-powered RAG system that automates campaign forecasting through intelligent retrieval and ranking. Achieved 100% coverage (K=3 recommendations), eliminating manual campaign triage and reducing setup time by 1.5 days per campaign. <br>
+              • Architected automated ML data and training pipelines on GCP using Spark, Kubeflow, and Oozie with TensorFlow Agents; established standardized model tracking and monitoring through TensorBoard and Grafana. <br>
+              • Technical thought leadership: Presented advanced ML methodologies at company-wide technical forums and received VP Award for Innovation & Impact. <br>
               
-               
-- title: Applied Data Scientist 2, TATA AIA
-  from: April 2021
+- title: Applied Data Scientist 2, Tata AIA Life
+  from: April 2020
   to: October 2021
   description:  
-              • Analyzed customer onboarding journey to increase conversion using Natural Language Processing - Gensim
-               LDA topic modeling on pending tickets text data and developed interactive TAT visualization 
-               with Plotly Sankey. <br>
-              • Optimized organization hierarchy to reduce operations cost 
-               and increased productivity with different growth & compensation
-               strategies using directed graph NetworkX and PySim. <br>
-                
-- title: Applied Data Scientist 1, TATA AIA
-  from: April 2020
-  to: March 2021
-  description: 
-              • Developed a New Business profit prediction model with GBM regression to reduce valuation TAT. <br>
-              • Trained model on 3 million+ samples achieving R² of 0.991 on test sets 
-               and exposed the model in production using FastAPI. <br>
-              • Used SHAP for feature attribution, model debugging & created 
-               visualization dashboard using Streamlit. <br>
-              • Optimized Asset Portfolio using Scipy minimize (SLSQP) and reduced
-               run-time by 94% using Numba (JIT compiler). <br>
-              • Developed Profit-Loss simulation model using Monte Carlo & 
-               Poisson distribution on customer mortality. <br>
+              • Applied NLP techniques including Gensim LDA topic modeling to identify drop-off points in customer onboarding, achieving 6.2% conversion rate increase. Developed interactive journey visualizations using Plotly Sankey diagrams. <br>
+              • Developed a GBM regression profit prediction model (R² = 0.991) and deployed it in production via FastAPI; reduced valuation TAT by 30 days. Implemented SHAP for feature attribution and built Streamlit visualization for explainable AI. <br>
                 
 - title: Machine Learning Engineer, HDFC Life
   from: January 2018
   to: March 2020
   description: 
-              • Developed a Face recognition system to reduce fraud in virtual customer 
-                onboarding with DeepFace embeddings. <br>
-              • Trained a CNN model for anti-spoofing and deployed 
-                the model as a service using Docker and ECS. <br>
-              • Designed and developed the serverless architecture of Lead allocation and 
-                Route optimization app on AWS Data Lake using
-                Lambda, DMS, DynamoDB, Step Function, ECR, ECS, S3, etc. <br>
-              • Developed ETL pipeline for processing KYC details of customer documents 
-                using OCR (Tesseract), deployed with S3 on AWS. <br>
-              • Developed an Email classification model with 92% accuracy to predict 
-                the action on ticket using Natural Language Processing & word-to-vec. <br>
-              • Developed a Medical Risk classification model with Costly Features using 
-                Deep Reinforcement Learning (DDQN algorithm) achieving above 91% accuracy. <br>
-              • Identified & extracted 10 million+ records from Oracle SQL database using Apache Flink Java via JDBC. <br>
-                
-- title: Data Science & Machine Learning Intern, HDFC Life
-  from: June 2017
-  to: December 2017
-  description: 
-              • Developed an Email classification model with 92% accuracy to predict 
-                the action on ticket using Natural Language Processing & word-to-vec. <br>
-              • Developed a Medical Risk classification model with Costly Features using 
-                Deep Reinforcement Learning (DDQN algorithm) achieving above 91% accuracy. <br>
-              • Identified & extracted 10 million+ records from Oracle SQL database using Apache Flink Java via JDBC. <br>
+              • Developed a Face Recognition system with Anti-Spoofing capabilities using CNN and DeepFace embeddings to reduce fraud in virtual customer onboarding. Deployed as a containerized service using Docker and ECS. <br>
+              • Designed and developed the serverless architecture of Lead allocation and Route optimisation app on AWS Data Lake (Lambda, DMS, Dynamodb, Step Function, S3, API Gateway, and Docker). <br>
+              • Built a cost-sensitive Medical Risk classification model using Deep Reinforcement Learning (DDQN), achieving >91% accuracy while intelligently balancing diagnostic test costs. <br>
 
+              
               
