@@ -21,13 +21,6 @@ Want to learn more? Check out my [projects](https://festivitymishra.github.io/pr
 {% include elements/button.html link="https://festivitymishra.github.io/contact/" text="Contact Me" %}
 </p>
 
-## **Skills**
-
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
 <!-- # **Education**
 <div class="row">
 {% include about/timeline.html %}
