@@ -67,7 +67,7 @@ collections:
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id               # TODO: Replace with your actual Google Analytics tracking ID (e.g., G-XXXXXXXXXX)
+    tracking_id: G-P5RPW35L2B                         # Google Analytics Measurement ID
 
 
 ### Defaults for collections ###
