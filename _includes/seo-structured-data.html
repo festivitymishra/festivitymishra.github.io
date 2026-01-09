@@ -1,0 +1,92 @@
+<!-- JSON-LD Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.author.name }}",
+  "url": "{{ site.url | default: 'https://festivitymishra.github.io' }}",
+  "image": "{{ site.url | default: 'https://festivitymishra.github.io' }}{{ site.author.image }}",
+  "jobTitle": "Staff ML Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Target Corporation"
+  },
+  "email": "{{ site.author.email }}",
+  "sameAs": [
+    {% if site.author.linkedin %}"https://www.linkedin.com/in/{{ site.author.linkedin }}"{% if site.author.github %},{% endif %}{% endif %}
+    {% if site.author.github %}"https://github.com/{{ site.author.github }}"{% endif %}
+  ],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Indian Institute of Technology Kharagpur",
+    "url": "http://www.iitkgp.ac.in/"
+  },
+  "knowsAbout": [
+    "Machine Learning",
+    "Reinforcement Learning",
+    "Deep Learning",
+    "Artificial Intelligence",
+    "Generative AI",
+    "RAG Systems",
+    "Multi-Arm Bandits",
+    "Contextual Bandits",
+    "Neural Networks",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Data Science",
+    "MLOps",
+    "Cloud Computing"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Staff ML Engineer",
+    "occupationLocation": {
+      "@type": "City",
+      "name": "Bengaluru"
+    },
+    "skills": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "GenAI",
+      "RAG",
+      "Multi-Arm Bandits",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Python",
+      "MLOps",
+      "GCP",
+      "AWS"
+    ]
+  },
+  "award": "VP Award for Innovation & Impact",
+  "knowsLanguage": [
+    {
+      "@type": "Language",
+      "name": "English"
+    },
+    {
+      "@type": "Language",
+      "name": "Hindi"
+    }
+  ]
+}
+</script>
+
+<!-- Additional Professional Profile Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}",
+    "jobTitle": "Staff ML Engineer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Target Corporation"
+    }
+  }
+}
+</script>
+

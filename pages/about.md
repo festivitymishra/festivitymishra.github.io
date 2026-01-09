@@ -3,9 +3,13 @@ layout: page
 title: "About"
 permalink: /about/
 weight: 2
+description: About Utsav Mishra - Staff ML Engineer, Principal Data Scientist, and AI Engineer with 8+ years experience in Machine Learning, Reinforcement Learning, and GenAI systems.
+keywords: Staff ML Engineer, Principal Data Scientist, AI Engineer, ML Scientist, Machine Learning Engineer, Utsav Mishra, Target Corporation, Reinforcement Learning, GenAI
 ---
 
 {% include landing.html %}
+
+# About Utsav Mishra - Staff ML Engineer & Principal Data Scientist
 
 ## **About Me**
 

@@ -1,10 +1,11 @@
 ### Site Settings ###
-title               : Utsav Mishra
+title               : Utsav Mishra - Staff ML Engineer | Principal Data Scientist | AI Engineer
 description         : >-
-  Staff ML Engineer | 8+ Years Architecting ML/RL/GenAI Systems | Patented Innovations | >$500M Business Impact | Leading Teams of 16+ | Expert in Multi-Arm Bandits, RAG, Deep Learning
+  Staff ML Engineer | Principal Data Scientist | AI Engineer | ML Scientist with 8+ Years Experience. Expert in Reinforcement Learning, GenAI, RAG systems, Multi-Arm Bandits. Patented innovations generating $500M+ business impact at Target Corporation.
 baseurl             : ""                     
 repository          : festivitymishra/festivitymishra.github.io   
 remote_theme        : YoussefRaafatNasry/portfolYOU
+url                 : https://festivitymishra.github.io
 
 
 ### Plugins ###

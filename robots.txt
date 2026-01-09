@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://festivitymishra.github.io/sitemap.xml
+
+# Disallow admin and private areas if any
+Disallow: /_includes/
+Disallow: /_data/
+Disallow: /_projects/
+Disallow: /_posts/
+Disallow: /_config.yml
+

@@ -2,6 +2,10 @@
 
     {% assign title = page.title | default: site.title | escape %}
     {% assign description = page.description | default: site.description | strip_html | strip_newlines | truncate: 160 %}
+    {% assign site_url = site.url | default: 'https://festivitymishra.github.io' %}
+    {% assign url = site_url | append: page.url %}
+    {% assign image = page.image | default: site.author.image %}
+    {% if image %}{% assign image = site_url | append: image %}{% endif %}
   
     {% if page.name and page.collection == 'projects' %}
       {% assign title = page.name | escape %}
@@ -11,12 +15,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
   
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ title }}">
-    <meta property="og:description" content="{{ description }}">
-  
-    <title>{{ title }}</title>
+    <!-- Primary Meta Tags -->
+    <title>{{ title }} | Staff ML Engineer | AI Engineer | Principal Data Scientist</title>
+    <meta name="title" content="{{ title }} | Staff ML Engineer | AI Engineer | Principal Data Scientist">
     <meta name="description" content="{{ description }}">
+    <meta name="keywords" content="Staff ML Engineer, Principal Data Scientist, AI Engineer, Machine Learning Engineer, ML Scientist, Data Scientist, Reinforcement Learning, GenAI, RAG, Multi-Arm Bandits, Deep Learning, Target Corporation, Utsav Mishra">
+    <meta name="author" content="{{ site.author.name }}">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+    <link rel="canonical" href="{{ url }}">
+  
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ url }}">
+    <meta property="og:title" content="{{ title }} | Staff ML Engineer | AI Engineer">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:image" content="{{ image }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:locale" content="en_US">
+  
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ url }}">
+    <meta property="twitter:title" content="{{ title }} | Staff ML Engineer">
+    <meta property="twitter:description" content="{{ description }}">
+    <meta property="twitter:image" content="{{ image }}">
+  
+    <!-- Additional SEO -->
+    <meta name="geo.region" content="IN-KA">
+    <meta name="geo.placename" content="Bengaluru">
+    <meta name="theme-color" content="#ffffff">
   
     <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
   
@@ -34,5 +63,12 @@
   
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  
+    <!-- Structured Data for SEO -->
+    {% include seo-structured-data.html %}
+    {% include breadcrumbs.html %}
+    {% if page.permalink == '/' %}
+    {% include faq-schema.html %}
+    {% endif %}
   
   </head>
