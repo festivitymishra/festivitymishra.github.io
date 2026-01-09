@@ -1,27 +1,35 @@
-- name: R
+- name: Python
   percentage: 95
   color: success
 
-- name: Python
-  percentage: 40
-  color: info
-
-- name: C
-  percentage: 40
-  color: info
-  
 - name: SQL
-  percentage: 40
+  percentage: 90
+  color: success
+
+- name: R
+  percentage: 85
   color: info
 
-- name: HTML
-  percentage: 25
-  color: warning
-  
-- name: CSS
-  percentage: 25
-  color: warning
-  
-- name: JS
-  percentage: 25
-  color: warning
+- name: Machine Learning
+  percentage: 90
+  color: success
+
+- name: Deep Learning
+  percentage: 85
+  color: info
+
+- name: Reinforcement Learning
+  percentage: 80
+  color: info
+
+- name: AWS
+  percentage: 75
+  color: info
+
+- name: Docker
+  percentage: 70
+  color: info
+
+- name: Git
+  percentage: 85
+  color: info

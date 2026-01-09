@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Utsav Mishra
 description         : >-
-  Data Scientist :nerd_face: 
+  Data Scientist & Machine Learning Engineer | Expert in ML, Deep Learning, Reinforcement Learning, NLP, and Computer Vision | Building production-ready AI solutions
 baseurl             : ""                     
 repository          : festivitymishra/festivitymishra.github.io   
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -67,7 +67,7 @@ collections:
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: your-google-tracking-id               # TODO: Replace with your actual Google Analytics tracking ID (e.g., G-XXXXXXXXXX)
 
 
 ### Defaults for collections ###

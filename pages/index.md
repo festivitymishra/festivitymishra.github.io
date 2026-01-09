@@ -7,22 +7,26 @@ permalink: /
 
 ## **About Me**
 
- I’m a  Technology Freak and Data Scientist based in Bengaluru, India. I work in an amazing team, surrounded by great people!. I’m passionate about Machine learning and its advantages. I have extensive experience in solving real-world business problems across domains using machine learning, to build applications and enable products. I like to go on long walks, treks, explore new places, and enjoy listening to music.
+I'm a Data Scientist and Machine Learning Engineer based in Bengaluru, India. I'm passionate about leveraging machine learning and AI to solve complex business problems. With extensive experience across domains, I specialize in building production-ready ML applications that drive real-world impact.
 
-I have completed my bachelor's at [Indian Institute of  Technology Kharagpur](http://www.iitkgp.ac.in/). During the academic year, I spent the majority of my time engaging in coursework, hackathons, and extracurricular activities that bridge the gap between quantitative and qualitative learning. I am looking to work in a field that utilizes the programming, critical thinking, and research skills that I have gained during my college years and professional experience.
+My expertise spans machine learning, reinforcement learning, natural language processing, and computer vision. I'm particularly interested in how reinforcement learning algorithms, combined with deep neural networks, can create innovative solutions in operations research, computational biology, conversational intelligence, and computer vision.
 
-My research interest includes machine learning, reinforcement learning, natural language processing, and computer vision. I am particularly interested in research that explores how reinforcement learning algorithms coupled with the predictive power of deep neural networks can be used to create innovative applications in operation research, computational biology, conversational intelligence, and computer vision.
+Currently, I work with an amazing team at Target, leading initiatives that impact millions of customers. My most rewarding experiences involve applying data science principles to solve challenging business cases.
 
-My most rewarding experiences have involved applying data science principles to solve business cases, which led me to my intended area of study. See the [Projects](https://festivitymishra.github.io/projects/) section of this site for a few examples of my work!<br>
+Want to learn more? Check out my [projects](https://festivitymishra.github.io/projects/), view my [resume](https://festivitymishra.github.io/resume/), or [get in touch](https://festivitymishra.github.io/contact/)!
 
 <p class="text-center">
-{% include elements/button.html link="https://festivitymishra.github.io/projects/" text="Projects" %}
+{% include elements/button.html link="https://festivitymishra.github.io/projects/" text="View Projects" %}
+{% include elements/button.html link="https://festivitymishra.github.io/about/" text="Learn More" %}
+{% include elements/button.html link="https://festivitymishra.github.io/contact/" text="Contact Me" %}
 </p>
 
-<!-- <div class="row">
+## **Skills**
+
+<div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div> -->
+</div>
 
 <!-- # **Education**
 <div class="row">
